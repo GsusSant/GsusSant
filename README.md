@@ -8,19 +8,22 @@
 </div>
 
 ---
-Acerca de Mí 📊
-🎓 Graduado en [Tu Campo de Estudio o Universidad].
-💼 Actualmente trabajando como [Tu Rol Actual].
-🚀 Constantemente explorando nuevas tecnologías y metodologías en el campo de Data Analytics.
+Acerca de Mí 📊:
+
+- 🎓 Graduado en [Tu Campo de Estudio o Universidad].
+- 💼 Actualmente trabajando como [Tu Rol Actual].
+- 🚀 Constantemente explorando nuevas tecnologías y metodologías en el campo de Data Analytics.
+
 Habilidades 🛠️
-Lenguajes: Python, SQL, R.
-Herramientas: Jupyter, Pandas, NumPy, Matplotlib, Tableau.
-Experiencia en: Análisis exploratorio, visualización de datos, modelado predictivo.
-Metodologías: Scrum, Agile.
-Proyectos Destacados 🚀
+- Lenguajes: Python, SQL, R.
+- Herramientas: Jupyter, Pandas, NumPy, Matplotlib, Tableau.
+E- xperiencia en: Análisis exploratorio, visualización de datos, modelado predictivo.
+- Metodologías: Scrum, Agile.
+- Proyectos Destacados 🚀
 [Proyecto 1: Breve descripción y enlace al repositorio]
 [Proyecto 2: Breve descripción y enlace al repositorio]
 [Proyecto 3: Breve descripción y enlace al repositorio]
+
 Colaboración y Aprendizaje 🌐
 Estoy entusiasmado por colaborar en proyectos emocionantes y aprender de la comunidad. ¡Siempre estoy abierto a nuevas ideas y sugerencias!
 

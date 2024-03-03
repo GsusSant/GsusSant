@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm GsusSant
+
+<div id ="header" align="center"
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RnbzVxdGFxaW03c282bWR1dWpjZTVodnNzZzh0a3Q0NzBpZGN3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300" />
+</div
 
 <!--
 **GsusSant/GsusSant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -26,12 +26,12 @@ E- xperiencia en: Análisis exploratorio, visualización de datos, modelado pred
 [Proyecto 3: Breve descripción y enlace al repositorio]
 
 Colaboración y Aprendizaje 🌐
-Estoy entusiasmado por colaborar en proyectos emocionantes y aprender de la comunidad. ¡Siempre estoy abierto a nuevas ideas y sugerencias!
+- Estoy entusiasmado por colaborar en proyectos emocionantes y aprender de la comunidad. ¡Siempre estoy abierto a nuevas ideas y sugerencias!
 
 Conéctate conmigo 🤝
-[LinkedIn](Enlace a tu perfil de LinkedIn)
-[Twitter](Enlace a tu perfil de Twitter)
-[Sitio web o blog personal si lo tienes]
+- [LinkedIn](Enlace a tu perfil de LinkedIn)
+
+
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y que podamos conectar para discutir todo sobre Data Analytics. ¡Hagamos que los datos hablen! 📈✨
 
 <!--

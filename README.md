@@ -5,6 +5,7 @@
     <h3 align="center"> Me dedico a explorar narrativas a través del análisis de datos y convertir números en conocimientos significativos. Aunque estoy dando mis primeros pasos en el mundo del análisis de datos, estoy comprometido en compartir los proyectos que reflejan mi viaje inicial. Juntos, exploraremos cómo los datos pueden revelar fascinantes narrativas y descubriremos los misterios que esconden. ¡Acompáñenme en este inicio analítico! 🚀📊
     </h3>
 
+
 </div>
 
 ---

@@ -11,9 +11,9 @@
 ---
 Acerca de Mí 📊:
 
-- 🎓 Graduado en [Tu Campo de Estudio o Universidad].
-- 💼 Actualmente trabajando como [Tu Rol Actual].
-- 🚀 Constantemente explorando nuevas tecnologías y metodologías en el campo de Data Analytics.
+- 🎓 Graduado en Marketign y Música por la URJC y el RCSMM.
+- 💼 Actualmente trabajando como Compositor.
+- 🚀 Explorando nuevas tecnologías y metodologías en el campo de Data Analytics.
 
 Habilidades 🛠️
 - Lenguajes: Python, SQL, R.
@@ -21,9 +21,9 @@ Habilidades 🛠️
 E- xperiencia en: Análisis exploratorio, visualización de datos, modelado predictivo.
 - Metodologías: Scrum, Agile.
 - Proyectos Destacados 🚀
-[Proyecto 1: Breve descripción y enlace al repositorio]
-[Proyecto 2: Breve descripción y enlace al repositorio]
-[Proyecto 3: Breve descripción y enlace al repositorio]
+        Titanic
+        Airbnb Tokyo
+        ML Spotify
 
 Colaboración y Aprendizaje 🌐
 - Estoy entusiasmado por colaborar en proyectos emocionantes y aprender de la comunidad. ¡Siempre estoy abierto a nuevas ideas y sugerencias!
@@ -32,7 +32,7 @@ Conéctate conmigo 🤝
 - [LinkedIn](Enlace a tu perfil de LinkedIn)
 
 
-¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y que podamos conectar para discutir todo sobre Data Analytics. ¡Hagamos que los datos hablen! 📈✨
+¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y que podamos conectar. ¡Hagamos que los datos hablen! 📈✨
 
 <!--
 **GsusSant/GsusSant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -11,25 +11,25 @@
 ---
 Acerca de Mí 📊:
 
-- 🎓 Graduado en Marketign y Música por la URJC y el RCSMM.
+- 🎓 Graduado en Marketing y Música por la URJC y el RCSMM.
 - 💼 Actualmente trabajando como Compositor.
 - 🚀 Explorando nuevas tecnologías y metodologías en el campo de Data Analytics.
 
 Habilidades 🛠️
-- Lenguajes: Python, SQL, R.
+- Lenguajes: Python, SQL, C++.
 - Herramientas: Jupyter, Pandas, NumPy, Matplotlib, Tableau.
 E- xperiencia en: Análisis exploratorio, visualización de datos, modelado predictivo.
 - Metodologías: Scrum, Agile.
 - Proyectos Destacados 🚀
-        Titanic
-        Airbnb Tokyo
-        ML Spotify
+       - Titanic
+       - Airbnb Tokyo
+       - ML Spotify
 
 Colaboración y Aprendizaje 🌐
 - Estoy entusiasmado por colaborar en proyectos emocionantes y aprender de la comunidad. ¡Siempre estoy abierto a nuevas ideas y sugerencias!
 
 Conéctate conmigo 🤝
-- [LinkedIn](Enlace a tu perfil de LinkedIn)
+- Jesús Santamaría Muñoz, www.linkedin.com/in/jesus-santamaría-muñoz-01a091260
 
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y que podamos conectar. ¡Hagamos que los datos hablen! 📈✨
